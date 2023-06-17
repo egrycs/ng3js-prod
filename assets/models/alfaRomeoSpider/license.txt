@@ -1,0 +1,11 @@
+Model Information:
+* title:	Alfa Romeo Spider
+* source:	https://sketchfab.com/3d-models/alfa-romeo-spider-c7d2ea0a66094d1aa68c2715722a090b
+* author:	Nommoc (https://sketchfab.com/kikumi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Alfa Romeo Spider" (https://sketchfab.com/3d-models/alfa-romeo-spider-c7d2ea0a66094d1aa68c2715722a090b) by Nommoc (https://sketchfab.com/kikumi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

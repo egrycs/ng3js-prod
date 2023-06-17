@@ -1,0 +1,11 @@
+Model Information:
+* title:	Toy Dino Allosaurus
+* source:	https://sketchfab.com/3d-models/toy-dino-allosaurus-b6617c83e9d64781b4b65081ce4c6fe1
+* author:	Kai Christmann (https://sketchfab.com/kai_am_rhein)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Toy Dino Allosaurus" (https://sketchfab.com/3d-models/toy-dino-allosaurus-b6617c83e9d64781b4b65081ce4c6fe1) by Kai Christmann (https://sketchfab.com/kai_am_rhein) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)

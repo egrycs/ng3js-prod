@@ -1,0 +1,11 @@
+Model Information:
+* title:	1991 VAZ 21099
+* source:	https://sketchfab.com/3d-models/1991-vaz-21099-4a1ada9d2847461db4bc99c35194a55c
+* author:	Renafox (https://sketchfab.com/kryik1023)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "1991 VAZ 21099" (https://sketchfab.com/3d-models/1991-vaz-21099-4a1ada9d2847461db4bc99c35194a55c) by Renafox (https://sketchfab.com/kryik1023) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

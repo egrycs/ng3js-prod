@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chewbacca
+* source:	https://sketchfab.com/3d-models/chewbacca-f3c519c98d7b4ed391c2de67c9144267
+* author:	mpburton (https://sketchfab.com/mpburton)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chewbacca" (https://sketchfab.com/3d-models/chewbacca-f3c519c98d7b4ed391c2de67c9144267) by mpburton (https://sketchfab.com/mpburton) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

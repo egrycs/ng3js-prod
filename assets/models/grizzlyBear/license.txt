@@ -1,0 +1,11 @@
+Model Information:
+* title:	Toy Grizzly bear
+* source:	https://sketchfab.com/3d-models/toy-grizzly-bear-dc589df312e74ed1942ba3909a43b386
+* author:	Kai Christmann (https://sketchfab.com/kai_am_rhein)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Toy Grizzly bear" (https://sketchfab.com/3d-models/toy-grizzly-bear-dc589df312e74ed1942ba3909a43b386) by Kai Christmann (https://sketchfab.com/kai_am_rhein) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
